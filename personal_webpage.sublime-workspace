@@ -11,7 +11,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 991,
+				"buffer_size": 998,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -231,22 +231,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 991,
+						"buffer_size": 998,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								431,
-								431
+								880,
+								880
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 412,
+								"changes": 2,
 								"count": 49,
 								"modified": false,
 								"selection": false,
