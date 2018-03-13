@@ -122,6 +122,8 @@
 	],
 	"file_history":
 	[
+		"/D/PhD/Proximity KIDs/Repository/run_Tri_single_d2_for_lifetime.m",
+		"/D/PhD/Proximity KIDs/Repository/run_Tri_single_d2_for_Tc.m",
 		"/D/PhD/Investigations/Proximity Tc/Proximity_Tc.sublime-project",
 		"/D/PhD/Investigations/Proximity Tc/Presentation/presentation.tex",
 		"/D/PhD/Proximity KIDs/Graduate Student Conference/Abstract.tex",
@@ -238,15 +240,15 @@
 						"selection":
 						[
 							[
-								880,
-								880
+								261,
+								261
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 2,
+								"changes": 0,
 								"count": 49,
 								"modified": false,
 								"selection": false,
